@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josephknguyen
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in Analog and Mixed Signal Design
 - 🌱 I’m currently learning Electrical Engineering at Texas A&M University
 - 📫 How to reach me: Email- jkn16sc@gmail.com Linkedin- https://www.linkedin.com/in/joseph-nguyen-038ab6263/ 
